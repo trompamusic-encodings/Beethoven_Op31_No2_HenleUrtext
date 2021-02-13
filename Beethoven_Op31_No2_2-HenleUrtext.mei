@@ -37,12 +37,10 @@
                   <pgHead xml:id="pghead-0000000177049167" />
                   <pgFoot xml:id="pgfoot-0000001400498674" />
                   <pgFoot2 xml:id="pgfoot2-0000001760442798" />
-                  <staffGrp xml:id="staff-0000000308544588">
-                     <staffGrp xml:id="staff-0000000726608586" symbol="brace" bar.thru="true">
-                        <label xml:id="label-0000000082026595" />
-                        <staffDef xml:id="staff-0000000015678600" n="1" lines="5" ppq="24" clef.shape="G" clef.line="2" key.sig="2f" meter.count="3" meter.unit="4" meter.form="norm" />
-                        <staffDef xml:id="staff-0000000061112314" n="2" lines="5" ppq="24" clef.shape="F" clef.line="4" key.sig="2f" meter.count="3" meter.unit="4" meter.form="norm" />
-                     </staffGrp>
+                  <staffGrp xml:id="staff-0000000726608586" symbol="brace" bar.thru="true">
+                     <label xml:id="label-0000000082026595" />
+                     <staffDef xml:id="staff-0000000015678600" n="1" lines="5" clef.shape="G" clef.line="2" key.sig="2f" meter.count="3" meter.unit="4" meter.form="norm" />
+                     <staffDef xml:id="staff-0000000061112314" n="2" lines="5" clef.shape="F" clef.line="4" key.sig="2f" meter.count="3" meter.unit="4" meter.form="norm" />
                   </staffGrp>
                </scoreDef>
                <section xml:id="section-0000000437728390">
@@ -65,7 +63,7 @@
                            </chord>
                         </layer>
                      </staff>
-                     <tempo xml:id="tempo-0000000549126800" place="above" staff="1" tstamp="1.000000" midi.bpm="48" vgrp="200">Adagio</tempo>
+                     <tempo xml:id="tempo-0000000549126800" place="above" staff="1" tstamp="1.000000" midi.bpm="42" vgrp="200">Adagio</tempo>
                      <dynam xml:id="dynam-0000000664806835" place="above" staff="2" tstamp="1.000000" vgrp="86">p</dynam>
                      <arpeg xml:id="arpeg-0000000033995066" plist="#chord-0000000020800512 #chord-0000000097341888" />
                   </measure>
