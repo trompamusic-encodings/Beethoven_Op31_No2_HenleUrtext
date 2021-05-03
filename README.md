@@ -2,8 +2,8 @@
 
 # DRAFT encoding template
 
-This repository contains an [MEI](https://music-encoding.org) encoding of the **Sonata for Piano (Opus 31 No. 2)** by Ludwig van Beethoven, 
+This repository contains an [MEI](https://music-encoding.org) encoding of the second movement of the **Sonata for Piano (Opus 31 No. 2)** by Ludwig van Beethoven, 
 following the [Henle Urtext edition, 1976. Plate HN1034](https://imslp.org/wiki/Special:ReverseLookup/621761).
 
-We hope that this repository will eventually serve as an encoding template for wider use within the [TROMPA](https://trompamusic.eu) project. 
-For now, no assurances are made regarding the validity or consistency of this encoding or its structure. 
+We hope that this repository will eventually serve as an encoding template for wider use within the [TROMPA](https://trompamusic.eu) project.
+For now, no assurances are made regarding the validity or consistency of this encoding or its structure.
